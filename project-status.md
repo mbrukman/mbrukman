@@ -65,11 +65,11 @@ No status badges.
 
 ## [Game Builder][game-builder]
 
-[![Build Status][game-builder-travis-shield]][game-builder-travis-link]
+[![Build Status][game-builder-ci-badge]][game-builder-ci-url]
 
 [game-builder]: https://github.com/mbrukman/game-builder/
-[game-builder-travis-shield]: https://travis-ci.org/mbrukman/game-builder.svg?branch=master
-[game-builder-travis-link]: https://travis-ci.org/mbrukman/game-builder
+[game-builder-ci-badge]: https://github.com/mbrukman/game-builder/actions/workflows/main.yaml/badge.svg?branch=main
+[game-builder-ci-url]: https://github.com/mbrukman/game-builder/actions/workflows/main.yaml?query=branch%3Amain
 
 ## [Kaggle notebooks][kaggle-notebooks]
 
