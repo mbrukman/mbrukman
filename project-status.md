@@ -153,14 +153,17 @@ No status badges.
 
 ## [yaml2json]
 
-[![Build Status][yaml2json-ci-badge]][yaml2json-ci-url]
-[![Go Report Card][yaml2json-go-report-card-badge]][yaml2json-go-report-card-url]
+[![Python build status][yaml2json-python-ci-badge]][yaml2json-python-ci-url]
+[![Go build status][yaml2json-go-ci-badge]][yaml2json-go-ci-url]
+[![Go Report Card][go-report-card-badge]][go-report-card-url]
 
 [yaml2json]: https://github.com/mbrukman/yaml2json/
-[yaml2json-ci-badge]: https://github.com/mbrukman/yaml2json/actions/workflows/main.yml/badge.svg
-[yaml2json-ci-url]: https://github.com/mbrukman/yaml2json/actions/workflows/main.yml
-[yaml2json-go-report-card-badge]: https://goreportcard.com/badge/github.com/mbrukman/yaml2json
-[yaml2json-go-report-card-url]: https://goreportcard.com/report/github.com/mbrukman/yaml2json
+[yaml2json-python-ci-badge]: https://github.com/mbrukman/yaml2json/actions/workflows/python.yaml/badge.svg?query=branch%3Amain
+[yaml2json-python-ci-url]: https://github.com/mbrukman/yaml2json/actions/workflows/python.yaml?query=branch%3Amain
+[yaml2json-go-ci-badge]: https://github.com/mbrukman/yaml2json/actions/workflows/go.yaml/badge.svg?query=branch%3Amain
+[yaml2json-go-ci-url]: https://github.com/mbrukman/yaml2json/actions/workflows/go.yaml?query=branch%3Amain
+[go-report-card-badge]: https://goreportcard.com/badge/github.com/mbrukman/yaml2json
+[go-report-card-url]: https://goreportcard.com/report/github.com/mbrukman/yaml2json
 
 ---
 
