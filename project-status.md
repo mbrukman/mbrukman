@@ -40,8 +40,8 @@ Build, test, and other status indicators for my projects in one place.
 [![Build Status][csv2txf-ci-badge]][csv2txf-ci-url]
 
 [csv2txf]: https://github.com/mbrukman/csv2txf/
-[csv2txf-ci-badge]: https://github.com/mbrukman/csv2txf/actions/workflows/main.yml/badge.svg
-[csv2txf-ci-url]: https://github.com/mbrukman/csv2txf/actions/workflows/main.yml
+[csv2txf-ci-badge]: https://github.com/mbrukman/csv2txf/actions/workflows/main.yml/badge.svg?query=branch%3Amain
+[csv2txf-ci-url]: https://github.com/mbrukman/csv2txf/actions/workflows/main.yml?query=branch%3Amain
 
 ## [Delayed Replay][delayed-replay]
 
@@ -51,11 +51,11 @@ No status badges.
 
 ## [Easyfix][easyfix]
 
-[![Build Status][easyfix-ci-badge]][easyfix-ci-url]
+[![Easyfix build Status][easyfix-ci-badge]][easyfix-ci-url]
 
 [easyfix]: https://github.com/mbrukman/easyfix/
-[easyfix-ci-badge]: https://github.com/mbrukman/easyfix/actions/workflows/main.yml/badge.svg
-[easyfix-ci-url]: https://github.com/mbrukman/easyfix/actions/workflows/main.yml
+[easyfix-ci-badge]: https://github.com/mbrukman/easyfix/actions/workflows/main.yml/badge.svg?query=branch%3Amain
+[easyfix-ci-url]: https://github.com/mbrukman/easyfix/actions/workflows/main.yml?query=branch%3Amain
 
 ## [Fonts][fonts]
 
