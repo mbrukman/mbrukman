@@ -73,7 +73,13 @@ No status badges.
 
 ## [Math contests](https://github.com/mbrukman/math-contests/)
 
-TODO
+[![LaTeX][latex-ci-badge]][latex-ci-url]
+[![Typst][typst-ci-badge]][typst-ci-url]
+
+[latex-ci-badge]: https://github.com/mbrukman/math-contests/actions/workflows/latex.yaml/badge.svg?query=branch%3Amain
+[latex-ci-url]: https://github.com/mbrukman/math-contests/actions/workflows/latex.yaml?query=branch%3Amain
+[typst-ci-badge]: https://github.com/mbrukman/math-contests/actions/workflows/typst.yaml/badge.svg?query=branch%3Amain
+[typst-ci-url]: https://github.com/mbrukman/math-contests/actions/workflows/typst.yaml?query=branch%3Amain
 
 ## [Notebook](https://github.com/mbrukman/notebook/)
 
