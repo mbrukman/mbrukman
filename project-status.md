@@ -100,6 +100,16 @@ No status badges.
 [notebook-go-report-card-badge]: https://goreportcard.com/badge/github.com/mbrukman/notebook
 [notebook-go-report-card-url]: https://goreportcard.com/report/github.com/mbrukman/notebook
 
+## [PDF extract SVG](https://github.com/mbrukman/pdf-extract-svg/)
+
+[![Lint][pdf-extract-svg-lint-badge]][pdf-extract-svg-lint-url]
+[![Typecheck][pdf-extract-svg-typecheck-badge]][pdf-extract-svg-typecheck-url]
+
+[pdf-extract-svg-lint-badge]: https://github.com/mbrukman/pdf-extract-svg/actions/workflows/lint.yaml/badge.svg?branch=main
+[pdf-extract-svg-lint-url]: https://github.com/mbrukman/pdf-extract-svg/actions/workflows/lint.yaml?query=branch%3Amain
+[pdf-extract-svg-typecheck-badge]: https://github.com/mbrukman/pdf-extract-svg/actions/workflows/typecheck.yaml/badge.svg?branch=main
+[pdf-extract-svg-typecheck-url]: https://github.com/mbrukman/pdf-extract-svg/actions/workflows/typecheck.yaml?query=branch%3Amain
+
 ## [Polyglot](https://github.com/mbrukman/polyglot/)
 
 No status badges.
